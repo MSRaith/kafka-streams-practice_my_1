@@ -1,0 +1,165 @@
+P[2023-03-17 20:32:35,337] INFO [Test worker] KafkaAvroSerializerConfig values: 
+	auto.register.schemas = true
+$	avro.reflection.allow.null = false
+%	avro.remove.java.properties = false
+*	avro.use.logical.type.converters = false
+%	basic.auth.credentials.source = URL
+!	basic.auth.user.info = [hidden]
+/	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+\	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+$	latest.compatibility.strict = true
+ 	max.schemas.per.subject = 1000
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+1	schema.registry.basic.auth.user.info = [hidden]
+*	schema.registry.ssl.cipher.suites = null
+<	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+?	schema.registry.ssl.endpoint.identification.algorithm = https
+1	schema.registry.ssl.engine.factory.class = null
+)	schema.registry.ssl.key.password = null
+4	schema.registry.ssl.keymanager.algorithm = SunX509
+7	schema.registry.ssl.keystore.certificate.chain = null
+)	schema.registry.ssl.keystore.key = null
+.	schema.registry.ssl.keystore.location = null
+.	schema.registry.ssl.keystore.password = null
+)	schema.registry.ssl.keystore.type = JKS
+(	schema.registry.ssl.protocol = TLSv1.3
+%	schema.registry.ssl.provider = null
+9	schema.registry.ssl.secure.random.implementation = null
+3	schema.registry.ssl.trustmanager.algorithm = PKIX
+4	schema.registry.ssl.truststore.certificates = null
+0	schema.registry.ssl.truststore.location = null
+0	schema.registry.ssl.truststore.password = null
++	schema.registry.ssl.truststore.type = JKS
+/	schema.registry.url = [http://localhost:8090]
+	use.latest.version = false
+^	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+< (io.confluent.kafka.serializers.KafkaAvroSerializerConfig)
+R[2023-03-17 20:32:35,353] INFO [Test worker] KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+$	avro.reflection.allow.null = false
+*	avro.use.logical.type.converters = false
+%	basic.auth.credentials.source = URL
+!	basic.auth.user.info = [hidden]
+/	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+\	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+$	latest.compatibility.strict = true
+ 	max.schemas.per.subject = 1000
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+1	schema.registry.basic.auth.user.info = [hidden]
+*	schema.registry.ssl.cipher.suites = null
+<	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+?	schema.registry.ssl.endpoint.identification.algorithm = https
+1	schema.registry.ssl.engine.factory.class = null
+)	schema.registry.ssl.key.password = null
+4	schema.registry.ssl.keymanager.algorithm = SunX509
+7	schema.registry.ssl.keystore.certificate.chain = null
+)	schema.registry.ssl.keystore.key = null
+.	schema.registry.ssl.keystore.location = null
+.	schema.registry.ssl.keystore.password = null
+)	schema.registry.ssl.keystore.type = JKS
+(	schema.registry.ssl.protocol = TLSv1.3
+%	schema.registry.ssl.provider = null
+9	schema.registry.ssl.secure.random.implementation = null
+3	schema.registry.ssl.trustmanager.algorithm = PKIX
+4	schema.registry.ssl.truststore.certificates = null
+0	schema.registry.ssl.truststore.location = null
+0	schema.registry.ssl.truststore.password = null
++	schema.registry.ssl.truststore.type = JKS
+/	schema.registry.url = [http://localhost:8090]
+	specific.avro.reader = false
+	use.latest.version = false
+^	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+> (io.confluent.kafka.serializers.KafkaAvroDeserializerConfig)
+P[2023-03-17 20:32:35,408] INFO [Test worker] KafkaAvroSerializerConfig values: 
+	auto.register.schemas = true
+$	avro.reflection.allow.null = false
+%	avro.remove.java.properties = false
+*	avro.use.logical.type.converters = false
+%	basic.auth.credentials.source = URL
+!	basic.auth.user.info = [hidden]
+/	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+\	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+$	latest.compatibility.strict = true
+ 	max.schemas.per.subject = 1000
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+1	schema.registry.basic.auth.user.info = [hidden]
+*	schema.registry.ssl.cipher.suites = null
+<	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+?	schema.registry.ssl.endpoint.identification.algorithm = https
+1	schema.registry.ssl.engine.factory.class = null
+)	schema.registry.ssl.key.password = null
+4	schema.registry.ssl.keymanager.algorithm = SunX509
+7	schema.registry.ssl.keystore.certificate.chain = null
+)	schema.registry.ssl.keystore.key = null
+.	schema.registry.ssl.keystore.location = null
+.	schema.registry.ssl.keystore.password = null
+)	schema.registry.ssl.keystore.type = JKS
+(	schema.registry.ssl.protocol = TLSv1.3
+%	schema.registry.ssl.provider = null
+9	schema.registry.ssl.secure.random.implementation = null
+3	schema.registry.ssl.trustmanager.algorithm = PKIX
+4	schema.registry.ssl.truststore.certificates = null
+0	schema.registry.ssl.truststore.location = null
+0	schema.registry.ssl.truststore.password = null
++	schema.registry.ssl.truststore.type = JKS
+/	schema.registry.url = [http://localhost:8090]
+	use.latest.version = false
+^	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+< (io.confluent.kafka.serializers.KafkaAvroSerializerConfig)
+R[2023-03-17 20:32:35,414] INFO [Test worker] KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+$	avro.reflection.allow.null = false
+*	avro.use.logical.type.converters = false
+%	basic.auth.credentials.source = URL
+!	basic.auth.user.info = [hidden]
+/	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+\	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+$	latest.compatibility.strict = true
+ 	max.schemas.per.subject = 1000
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+1	schema.registry.basic.auth.user.info = [hidden]
+*	schema.registry.ssl.cipher.suites = null
+<	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+?	schema.registry.ssl.endpoint.identification.algorithm = https
+1	schema.registry.ssl.engine.factory.class = null
+)	schema.registry.ssl.key.password = null
+4	schema.registry.ssl.keymanager.algorithm = SunX509
+7	schema.registry.ssl.keystore.certificate.chain = null
+)	schema.registry.ssl.keystore.key = null
+.	schema.registry.ssl.keystore.location = null
+.	schema.registry.ssl.keystore.password = null
+)	schema.registry.ssl.keystore.type = JKS
+(	schema.registry.ssl.protocol = TLSv1.3
+%	schema.registry.ssl.provider = null
+9	schema.registry.ssl.secure.random.implementation = null
+3	schema.registry.ssl.trustmanager.algorithm = PKIX
+4	schema.registry.ssl.truststore.certificates = null
+0	schema.registry.ssl.truststore.location = null
+0	schema.registry.ssl.truststore.password = null
++	schema.registry.ssl.truststore.type = JKS
+/	schema.registry.url = [http://localhost:8090]
+	specific.avro.reader = false
+	use.latest.version = false
+^	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+> (io.confluent.kafka.serializers.KafkaAvroDeserializerConfig)
+»[2023-03-17 20:32:35,571] WARN [Test worker] Using an OS temp directory in the state.dir property can cause failures with writing the checkpoint file due to the fact that this directory can be cleared by the OS. Resolved state.dir: [/tmp/kafka-streams] (org.apache.kafka.streams.processor.internals.StateDirectory)
+µ[2023-03-17 20:32:35,835] INFO [Test worker] topology-test-driver Restoring state for global store state-store (org.apache.kafka.streams.processor.internals.GlobalStateManagerImpl)
+ [2023-03-17 20:32:35,853] INFO [Test worker] Seeking to EARLIEST offset of partition products-0 (org.apache.kafka.clients.consumer.internals.SubscriptionState)
+š[2023-03-17 20:32:35,874] INFO [Test worker] stream-thread [Test worker] task [0_0] Initialized (org.apache.kafka.streams.processor.internals.StreamTask)
+¨[2023-03-17 20:32:35,885] INFO [Test worker] stream-thread [Test worker] task [0_0] Restored and ready to run (org.apache.kafka.streams.processor.internals.StreamTask)
+ [2023-03-17 20:32:36,274] INFO [Test worker] stream-thread [Test worker] task [0_0] Suspended running (org.apache.kafka.streams.processor.internals.StreamTask)
+¤[2023-03-17 20:32:36,282] INFO [Test worker] topology-test-driver Closing record collector clean (org.apache.kafka.streams.processor.internals.RecordCollectorImpl)
+›[2023-03-17 20:32:36,282] INFO [Test worker] stream-thread [Test worker] task [0_0] Closed clean (org.apache.kafka.streams.processor.internals.StreamTask)
+Ê[2023-03-17 20:32:36,292] INFO [Test worker] stream-thread [Test worker] Deleting state directory 0_0 for task 0_0 as user calling cleanup. (org.apache.kafka.streams.processor.internals.StateDirectory)
